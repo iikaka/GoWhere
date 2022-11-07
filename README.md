@@ -1,5 +1,7 @@
+### 技术栈
+vue2.0
 # gowhere
-
+仿去哪网demo
 ## Project setup
 ```
 yarn install
@@ -24,6 +26,3 @@ yarn run test
 ```
 yarn run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
